@@ -1,0 +1,4 @@
+interface CarFactory {
+    AbstractCar createCar();  
+     
+}
